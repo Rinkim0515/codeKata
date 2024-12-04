@@ -1,6 +1,6 @@
 # [level 0] 특수문자 출력하기 - 181948 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181948?language=swift) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181948) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 04일 09:47:37
+2024년 12월 04일 09:47:55
 
 ### 문제 설명
 
