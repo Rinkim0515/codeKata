@@ -1,10 +1,10 @@
 # [level 0] 문자열 돌리기 - 181945 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181945) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181945?language=swift) 
 
 ### 성능 요약
 
-메모리: 7.36 MB, 시간: 14.61 ms
+메모리: 12.3 MB, 시간: 63.82 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 05일 20:32:05
+2024년 12월 05일 20:46:15
 
 ### 문제 설명
 
